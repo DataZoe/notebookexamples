@@ -2,6 +2,7 @@
 
 import sempy.fabric as fabric
 import sempy_labs as labs
+from sempy_labs.tom import connect_semantic_model
 
 semanticmodelname = "Direct Lake"
 
