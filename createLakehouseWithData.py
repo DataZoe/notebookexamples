@@ -6,7 +6,6 @@ import sempy.fabric as fabric
 import pandas as pd
 from pyspark.sql.functions import col, last_day, dayofweek, year, month, date_format, rand, randn, expr
 import time
-import sempy.fabric as fabric
 import sempy_labs as labs
 from sempy_labs import migration, directlake, admin
 from sempy_labs import lakehouse as lake
